@@ -1,18 +1,17 @@
 # React Exercise: scroll-animate
 
 - using *Simple React Startkit*
+(https://github.com/ReactMaker/simple_react_start_kit_2017)
 - using *React Animate On Scroll*
-(from https://github.com/dbramwell/react-animate-on-scroll)
+(https://github.com/dbramwell/react-animate-on-scroll)
 
 *css sample:* (https://daneden.github.io/animate.css/)
 
-##DEMO
-
+## DEMO
+------------------
 ![demoImage](https://github.com/SusanLulu/React-slide-animate/raw/master/reactanimate.gif)
 
------------------------
 ##### Simple React Start Kit 2017
-from https://github.com/ReactMaker/simple_react_start_kit_2017
 
 *include:*
 - [react](https://github.com/facebook/react)
