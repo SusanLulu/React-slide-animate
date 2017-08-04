@@ -8,11 +8,10 @@
 *css sample:* (https://daneden.github.io/animate.css/)
 
 ## DEMO
-------------------
 ![demoImage](https://github.com/SusanLulu/React-slide-animate/raw/master/reactanimate.gif)
 
 ##### Simple React Start Kit 2017
-
+----------
 *include:*
 - [react](https://github.com/facebook/react)
 - [react-router 3](https://github.com/rackt/react-router)
@@ -21,7 +20,7 @@
 - [eslint](http://eslint.org)
 
 
-##### Using React sample starterkit
+###### Using React sample starterkit
 
 ```bash
 $ git clone https://github.com/ReactMaker/simple_react_start_kit_2017
